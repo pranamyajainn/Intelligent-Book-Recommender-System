@@ -1,0 +1,728 @@
+[
+    {
+        "book_title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "review_text": "This book taught me about Omens and the fact that if you want something from the heart, the whole universe conspires to bring it to you.",
+        "rating": 4,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9991039633750916,
+        "top_emotions": [
+            [
+                "anger",
+                0.8378767967224121
+            ],
+            [
+                "joy",
+                0.08431994915008545
+            ],
+            [
+                "fear",
+                0.0703611895442009
+            ]
+        ]
+    },
+    {
+        "book_title": "Ego is the Enemy",
+        "author": "Ryan Holiday",
+        "review_text": "Teaches the importance of humility in life.",
+        "rating": 4.5,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9994720816612244,
+        "top_emotions": [
+            [
+                "joy",
+                0.9872469902038574
+            ],
+            [
+                "anger",
+                0.0071005080826580524
+            ],
+            [
+                "sadness",
+                0.002189015503972769
+            ]
+        ]
+    },
+    {
+        "book_title": "The Communication Book",
+        "author": "Mikael Krogerus and Roman Tschappeler",
+        "review_text": "Brilliant short chapters on each phase of life to communicate better.",
+        "rating": 4,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9996840953826904,
+        "top_emotions": [
+            [
+                "joy",
+                0.9977007508277893
+            ],
+            [
+                "surprise",
+                0.0008803573437035084
+            ],
+            [
+                "love",
+                0.0004008325340691954
+            ]
+        ]
+    },
+    {
+        "book_title": "Limitless",
+        "author": "Jim Kwik",
+        "review_text": "A significant book about learning how our brain works and maximizing its potential.",
+        "rating": 5,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9997649788856506,
+        "top_emotions": [
+            [
+                "joy",
+                0.9950869679450989
+            ],
+            [
+                "anger",
+                0.0018821536796167493
+            ],
+            [
+                "sadness",
+                0.0010478170588612556
+            ]
+        ]
+    },
+    {
+        "book_title": "The 50th Law",
+        "author": "Robert Greene and 50 Cent",
+        "review_text": "Great book that teaches how to live life fearlessly and boldly.",
+        "rating": 5,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9998769760131836,
+        "top_emotions": [
+            [
+                "joy",
+                0.9978967905044556
+            ],
+            [
+                "anger",
+                0.0006229816353879869
+            ],
+            [
+                "love",
+                0.000504526833537966
+            ]
+        ]
+    },
+    {
+        "book_title": "The Almanack of Naval Ravikant",
+        "author": "Eric Jorgenson",
+        "review_text": "A philosophical book about living gracefully. The lessons on happiness were incredible.",
+        "rating": 5,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9998900890350342,
+        "top_emotions": [
+            [
+                "joy",
+                0.987365186214447
+            ],
+            [
+                "surprise",
+                0.009673641994595528
+            ],
+            [
+                "fear",
+                0.0008772118599154055
+            ]
+        ]
+    },
+    {
+        "book_title": "Influence: The Psychology of Persuasion",
+        "author": "Robert Cialdini",
+        "review_text": "Teaches how to build influence and the tricks used by persuaders.",
+        "rating": 5,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9986514449119568,
+        "top_emotions": [
+            [
+                "joy",
+                0.8362138271331787
+            ],
+            [
+                "anger",
+                0.11813115328550339
+            ],
+            [
+                "fear",
+                0.02573484741151333
+            ]
+        ]
+    },
+    {
+        "book_title": "The Charisma Myth",
+        "author": "Olivia Fox Cabane",
+        "review_text": "Explains the key elements of charisma and its types.",
+        "rating": 4.5,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9996976852416992,
+        "top_emotions": [
+            [
+                "joy",
+                0.9482826590538025
+            ],
+            [
+                "anger",
+                0.03062388114631176
+            ],
+            [
+                "fear",
+                0.01010491419583559
+            ]
+        ]
+    },
+    {
+        "book_title": "Mastery",
+        "author": "Robert Greene",
+        "review_text": "Explains the process of mastering a skill. It helped me understand the value of apprenticeship, the role of mentors, and social intelligence.",
+        "rating": 5,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9996128678321838,
+        "top_emotions": [
+            [
+                "joy",
+                0.9941163063049316
+            ],
+            [
+                "anger",
+                0.0022468313109129667
+            ],
+            [
+                "sadness",
+                0.0013465775409713387
+            ]
+        ]
+    },
+    {
+        "book_title": "The Mountain is You",
+        "author": "Brianna Wiest",
+        "review_text": "The writing style was incredible. Taught me a lot about emotional intelligence.",
+        "rating": 4.5,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9998767375946045,
+        "top_emotions": [
+            [
+                "joy",
+                0.9353635907173157
+            ],
+            [
+                "sadness",
+                0.04464539512991905
+            ],
+            [
+                "fear",
+                0.00951776560395956
+            ]
+        ]
+    },
+    {
+        "book_title": "Psycho-Cybernetics",
+        "author": "Maxwell Maltz",
+        "review_text": "Great insights on how self-image can change your life.",
+        "rating": 5,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9998544454574585,
+        "top_emotions": [
+            [
+                "joy",
+                0.9958792924880981
+            ],
+            [
+                "anger",
+                0.001256876508705318
+            ],
+            [
+                "surprise",
+                0.0010223228018730879
+            ]
+        ]
+    },
+    {
+        "book_title": "How to Make Anyone Fall in Love with You",
+        "author": "Leil Lowndes",
+        "review_text": "Teaches about intimacy and how feelings work.",
+        "rating": 4,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.999329686164856,
+        "top_emotions": [
+            [
+                "joy",
+                0.8938710689544678
+            ],
+            [
+                "anger",
+                0.06939559429883957
+            ],
+            [
+                "sadness",
+                0.019600581377744675
+            ]
+        ]
+    },
+    {
+        "book_title": "Surrounded by Idiots",
+        "author": "Thomas Erikson",
+        "review_text": "A funny and insightful book on understanding different types of people.",
+        "rating": 5,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9998657703399658,
+        "top_emotions": [
+            [
+                "joy",
+                0.7251451015472412
+            ],
+            [
+                "surprise",
+                0.257516086101532
+            ],
+            [
+                "fear",
+                0.005986684467643499
+            ]
+        ]
+    },
+    {
+        "book_title": "The Laws of Human Nature",
+        "author": "Robert Greene",
+        "review_text": "Incredible insights into human behavior and how we function.",
+        "rating": 4.5,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9998739957809448,
+        "top_emotions": [
+            [
+                "joy",
+                0.9219507575035095
+            ],
+            [
+                "surprise",
+                0.06738352030515671
+            ],
+            [
+                "fear",
+                0.004366117529571056
+            ]
+        ]
+    },
+    {
+        "book_title": "100 Quotes That Will Change Your Life",
+        "author": "Library Mindset",
+        "review_text": "Great collection of quotes.",
+        "rating": 4,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9998471736907959,
+        "top_emotions": [
+            [
+                "joy",
+                0.9611945152282715
+            ],
+            [
+                "anger",
+                0.021860912442207336
+            ],
+            [
+                "surprise",
+                0.005845357198268175
+            ]
+        ]
+    },
+    {
+        "book_title": "Life is Short and So is This Book",
+        "author": "Peter Atkins",
+        "review_text": "A short book covering various life lessons.",
+        "rating": 3.5,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9875253438949585,
+        "top_emotions": [
+            [
+                "joy",
+                0.7115527987480164
+            ],
+            [
+                "anger",
+                0.17626772820949554
+            ],
+            [
+                "fear",
+                0.06261467933654785
+            ]
+        ]
+    },
+    {
+        "book_title": "The Art of Seduction",
+        "author": "Robert Greene",
+        "review_text": "A dark psychological book on persuasion techniques that helped me build a more confident personality.",
+        "rating": 5,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9994231462478638,
+        "top_emotions": [
+            [
+                "joy",
+                0.9976050853729248
+            ],
+            [
+                "fear",
+                0.0007631666958332062
+            ],
+            [
+                "anger",
+                0.0005203174077905715
+            ]
+        ]
+    },
+    {
+        "book_title": "The War of Art",
+        "author": "Steven Pressfield",
+        "review_text": "Beautifully written book on creativity and overcoming resistance.",
+        "rating": 5,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9998730421066284,
+        "top_emotions": [
+            [
+                "joy",
+                0.9982748031616211
+            ],
+            [
+                "love",
+                0.000585832167416811
+            ],
+            [
+                "sadness",
+                0.00041219123522751033
+            ]
+        ]
+    },
+    {
+        "book_title": "How to Talk to Anyone",
+        "author": "Leil Lowndes",
+        "review_text": "Simple tips and tricks for better communication. Builds on 'How to Win Friends and Influence People'.",
+        "rating": 5,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9684630632400513,
+        "top_emotions": [
+            [
+                "joy",
+                0.9856151342391968
+            ],
+            [
+                "anger",
+                0.009818839840590954
+            ],
+            [
+                "sadness",
+                0.0020063151605427265
+            ]
+        ]
+    },
+    {
+        "book_title": "The Art of Being Alone",
+        "author": "Renuka Gavrani",
+        "review_text": "Teaches how to embrace solitude and that being alone is not bad.",
+        "rating": 4.5,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9994192123413086,
+        "top_emotions": [
+            [
+                "sadness",
+                0.9905492663383484
+            ],
+            [
+                "anger",
+                0.003722521010786295
+            ],
+            [
+                "joy",
+                0.0035655214451253414
+            ]
+        ]
+    },
+    {
+        "book_title": "How to Be a Writer",
+        "author": "Ruskin Bond",
+        "review_text": "Shares secrets on how to become a great writer.",
+        "rating": 3.5,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9996634721755981,
+        "top_emotions": [
+            [
+                "joy",
+                0.9980669617652893
+            ],
+            [
+                "surprise",
+                0.0004902061191387475
+            ],
+            [
+                "sadness",
+                0.0004422797355800867
+            ]
+        ]
+    },
+    {
+        "book_title": "The Courage to Be Disliked",
+        "author": "Fumitake Koga and Ichiro Kishimi",
+        "review_text": "A life-changing book teaching how courage, not ability, holds us back. Full of valuable lessons on living in the present.",
+        "rating": 5,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9984700083732605,
+        "top_emotions": [
+            [
+                "joy",
+                0.9984661340713501
+            ],
+            [
+                "love",
+                0.0004174049536231905
+            ],
+            [
+                "sadness",
+                0.0003415424143895507
+            ]
+        ]
+    },
+    {
+        "book_title": "Master Your Emotions",
+        "author": "Thibaut Meurisse",
+        "review_text": "Teaches how to manage emotions, especially negative ones.",
+        "rating": 4,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9945414662361145,
+        "top_emotions": [
+            [
+                "joy",
+                0.6500499248504639
+            ],
+            [
+                "anger",
+                0.17646415531635284
+            ],
+            [
+                "sadness",
+                0.12935005128383636
+            ]
+        ]
+    },
+    {
+        "book_title": "How to Become a People's Magnet",
+        "author": "Marc Reklau",
+        "review_text": "Good lessons on building a magnetic personality and becoming a better communicator.",
+        "rating": 4,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9995940327644348,
+        "top_emotions": [
+            [
+                "joy",
+                0.9933556318283081
+            ],
+            [
+                "anger",
+                0.0032751767430454493
+            ],
+            [
+                "fear",
+                0.0011021288810297847
+            ]
+        ]
+    },
+    {
+        "book_title": "100 Harsh Truths of Life",
+        "author": "Library Mindset",
+        "review_text": "A collection of blunt but meaningful quotes.",
+        "rating": 3.5,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9989368319511414,
+        "top_emotions": [
+            [
+                "anger",
+                0.9872980117797852
+            ],
+            [
+                "joy",
+                0.006613556761294603
+            ],
+            [
+                "fear",
+                0.0020499532110989094
+            ]
+        ]
+    },
+    {
+        "book_title": "The Compound Effect",
+        "author": "Darren Hardy",
+        "review_text": "Teaches the importance of small daily actions and how they compound into big results.",
+        "rating": 4,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9983866214752197,
+        "top_emotions": [
+            [
+                "joy",
+                0.9431647062301636
+            ],
+            [
+                "anger",
+                0.03692881017923355
+            ],
+            [
+                "sadness",
+                0.010547567158937454
+            ]
+        ]
+    },
+    {
+        "book_title": "The Power of Your Subconscious Mind",
+        "author": "Joseph Murphy",
+        "review_text": "Great insights into how our subconscious mind works.",
+        "rating": 3.5,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9998730421066284,
+        "top_emotions": [
+            [
+                "joy",
+                0.9879319071769714
+            ],
+            [
+                "anger",
+                0.0035117019433528185
+            ],
+            [
+                "fear",
+                0.0033901522401720285
+            ]
+        ]
+    },
+    {
+        "book_title": "This is All I Have to Say",
+        "author": "Swapan Seth",
+        "review_text": "Simply written with valuable life lessons in very few words.",
+        "rating": 4.5,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9995846152305603,
+        "top_emotions": [
+            [
+                "joy",
+                0.9979627132415771
+            ],
+            [
+                "love",
+                0.0006724600680172443
+            ],
+            [
+                "anger",
+                0.0004296918632462621
+            ]
+        ]
+    },
+    {
+        "book_title": "Eat That Frog",
+        "author": "Brian Tracy",
+        "review_text": "Simple but effective book on productivity and overcoming procrastination.",
+        "rating": 4,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9998001456260681,
+        "top_emotions": [
+            [
+                "joy",
+                0.9958140254020691
+            ],
+            [
+                "anger",
+                0.0016078166663646698
+            ],
+            [
+                "sadness",
+                0.0011507667368277907
+            ]
+        ]
+    },
+    {
+        "book_title": "The Subtle Art of Not Giving a F*ck",
+        "author": "Mark Manson",
+        "review_text": "Great book on focusing only on what truly matters and letting go of the rest.",
+        "rating": 5,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9994555115699768,
+        "top_emotions": [
+            [
+                "joy",
+                0.9946775436401367
+            ],
+            [
+                "sadness",
+                0.0022229524329304695
+            ],
+            [
+                "anger",
+                0.0018007168546319008
+            ]
+        ]
+    },
+    {
+        "book_title": "Who Moved My Cheese",
+        "author": "Spencer Johnson",
+        "review_text": "A short story teaching how to handle change gracefully.",
+        "rating": 5,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9992874264717102,
+        "top_emotions": [
+            [
+                "joy",
+                0.9617531299591064
+            ],
+            [
+                "anger",
+                0.02427908219397068
+            ],
+            [
+                "fear",
+                0.00803318526595831
+            ]
+        ]
+    },
+    {
+        "book_title": "Never Split the Difference",
+        "author": "Chris Voss",
+        "review_text": "Excellent book revealing secrets of negotiation and better communication.",
+        "rating": 4.5,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.999779999256134,
+        "top_emotions": [
+            [
+                "joy",
+                0.9944274425506592
+            ],
+            [
+                "anger",
+                0.002823878778144717
+            ],
+            [
+                "sadness",
+                0.0008327881223522127
+            ]
+        ]
+    },
+    {
+        "book_title": "Think Straight",
+        "author": "Darius Foroux",
+        "review_text": "Short book emphasizing the power of simple and clear thinking.",
+        "rating": 4,
+        "sentiment": "POSITIVE",
+        "sentiment_score": 0.9997913241386414,
+        "top_emotions": [
+            [
+                "joy",
+                0.8209278583526611
+            ],
+            [
+                "anger",
+                0.1577281504869461
+            ],
+            [
+                "sadness",
+                0.009019044227898121
+            ]
+        ]
+    }
+]
