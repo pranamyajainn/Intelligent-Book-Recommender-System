@@ -55,11 +55,11 @@ This combination of **emotion analysis, keyword extraction, smart fallback logic
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/pranamyajainn/Intelligent-Book-Recommender-System.git
     ```
 2. Navigate to the project folder:
     ```bash
-    cd your-repo-name
+    cd Intelligent-Book-Recommender-System
     ```
 3. Create a virtual environment (recommended):
     ```bash
