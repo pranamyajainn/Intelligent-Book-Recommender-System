@@ -400,8 +400,8 @@ def print_summary(total_books, filtered_out, recommended_count, fallback_used):
 
 
 def main():
-    print("\n🚀 Welcome to The Intelligent Book Recommender!")
-    print("📚 Truly Powered by Open Library & Emotion Analysis!")
+    print("\n Welcome to The Intelligent Book Recommender!")
+    print(" Truly Powered by Open Library & Emotion Analysis!")
     print("==============================================\n")
 
 
@@ -416,11 +416,11 @@ def main():
 
     personal_books = safe_load_json(REVIEWS_PATH)
     if not personal_books:
-        log("❌ No books found in personal collection.")
-        print("❌ No books found in your collection.")
+        log("No books found in personal collection.")
+        print(" No books found in your collection.")
         return
 
-    log(f"✅ Loaded {len(personal_books)} books from personal collection.")
+    log(f"Loaded {len(personal_books)} books from personal collection.")
 
     print("\n📚 Your Books:\n")
     for idx, book in enumerate(personal_books, 1):
